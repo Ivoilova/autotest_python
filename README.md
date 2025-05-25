@@ -21,7 +21,7 @@
 ## Как запустить тесты
 1. Клонируйте репозиторий:
    ```
-   git clone <ссылка_на_репозиторий>
+   git clone [https://github.com/Ivoilova/autotest_python.git]
    ```
 2. Установите зависимости:
    ```
